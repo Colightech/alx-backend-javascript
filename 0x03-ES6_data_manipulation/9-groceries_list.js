@@ -1,4 +1,3 @@
-/* this function returns a map of groceries with the following items (name, quantity):*/
 const groceriesList = () => {
   const map = new Map();
   map.set('Apples', 10);
