@@ -1,4 +1,3 @@
-/*returns an updated map for all items with initial quantity at 1.*/
 const updateUniqueItems = (items) => {
   if (!(items instanceof Map)) {
     throw new Error('Cannot process');
